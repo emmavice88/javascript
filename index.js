@@ -14,6 +14,5 @@ sino se puede seleccionar y  con control //
 */
 
 
-const pi = 31
-let nombre = "daniel"
+for{let i = 0; }
 
